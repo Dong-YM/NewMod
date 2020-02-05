@@ -1,0 +1,21 @@
+{
+  "type": "PowerTurret",
+  "name": "对空电弧",
+  "description": "啊对，这就是对空电弧",
+  "shootType":"meltdownLaser",
+  "reload": 4,
+  "range": 5000,
+  "powerUse": 333,
+  "size": 2,
+  "health": 3000,
+  "hasPower": true,
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 1250
+    }
+  ],
+  "itemCapacity": 300,
+  "category": "turret",
+  "research": "meltdown"
+}
